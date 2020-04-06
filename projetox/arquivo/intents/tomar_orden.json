@@ -1,0 +1,82 @@
+{
+  "id": "4ed83b65-c9c7-4655-aafa-f1413f89cae7",
+  "parentId": "ef21d46b-9d60-46e8-8261-fe8cb17ab920",
+  "rootParentId": "ef21d46b-9d60-46e8-8261-fe8cb17ab920",
+  "name": "tomar_orden",
+  "auto": true,
+  "contexts": [
+    "ordenar-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ordenar.ordenar-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "497f090b-47ec-459c-8637-43ae430e59bb",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "cantidad1",
+          "value": "$cantidad1",
+          "isList": false
+        },
+        {
+          "id": "71e15b33-c955-483b-9224-8edd54b44eea",
+          "required": false,
+          "dataType": "@empanadas",
+          "name": "sabor1",
+          "value": "$sabor1",
+          "isList": false
+        },
+        {
+          "id": "2cccd5cf-53cb-48d8-948e-bf47395dc715",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "cantidad2",
+          "value": "$cantidad2",
+          "isList": false
+        },
+        {
+          "id": "221bf308-2aaf-42af-95a7-20ef94404c6e",
+          "required": false,
+          "dataType": "@empanadas",
+          "name": "sabor2",
+          "value": "$sabor2",
+          "isList": false
+        },
+        {
+          "id": "dffdafb2-dd5d-4e42-af25-d067b11e12e5",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "cantidad3",
+          "value": "$cantidad3",
+          "isList": false
+        },
+        {
+          "id": "b11950d6-9fd2-47b6-b254-6861f7b75941",
+          "required": false,
+          "dataType": "@empanadas",
+          "name": "sabor3",
+          "value": "$sabor3",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539464163,
+  "fallbackIntent": false,
+  "events": []
+}

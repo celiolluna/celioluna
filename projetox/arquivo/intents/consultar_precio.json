@@ -1,0 +1,28 @@
+{
+  "id": "14dc6d43-4d50-4dd9-aa4a-24a3a98b7d43",
+  "name": "consultar_precio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539489349,
+  "fallbackIntent": false,
+  "events": []
+}

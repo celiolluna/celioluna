@@ -1,0 +1,62 @@
+[
+  {
+    "id": "24f86e0e-764f-450e-a235-4b0171fde781",
+    "data": [
+      {
+        "text": "costo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539488660
+  },
+  {
+    "id": "fdea99b2-e680-4611-953a-177a32b31c37",
+    "data": [
+      {
+        "text": "precio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539488660
+  },
+  {
+    "id": "b50f043d-a7d0-4b68-a4a9-420b28d0e99b",
+    "data": [
+      {
+        "text": "cual es el precio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539488660
+  },
+  {
+    "id": "c8aff208-31ae-4d9f-a5b4-2e494f593912",
+    "data": [
+      {
+        "text": "cuanto cuestan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539488660
+  },
+  {
+    "id": "43788793-0f69-496e-9964-06dad53e5c2e",
+    "data": [
+      {
+        "text": "cuanto salen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539488660
+  }
+]

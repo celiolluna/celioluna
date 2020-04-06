@@ -1,0 +1,139 @@
+{
+  "id": "4d68246c-e1a3-4e25-8918-9bcd2e069d73",
+  "name": "sabores",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "es",
+          "title": "Empanadas Arabes",
+          "subtitle": "Empanadas a base de cordero y carne vacuna",
+          "imageUrl": "https://placeralplato.com/files/2017/07/Empanadillas-rabes-de-carne-y-verdura.jpg",
+          "buttons": [
+            {
+              "text": "ORDENAR",
+              "postback": ""
+            },
+            {
+              "text": "Más info",
+              "postback": "https://es.wikipedia.org/wiki/Empanada"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "es",
+          "title": "Empanadas de carne",
+          "subtitle": "Típica empanada argentina.",
+          "imageUrl": "https://www.nestleagustoconlavida.com/wp-content/uploads/2014/09/EMPANADITAS-CRIOLLAS-CHAPINAS.png",
+          "buttons": [
+            {
+              "text": "ORDENAR",
+              "postback": ""
+            },
+            {
+              "text": "Más info",
+              "postback": "https://es.wikipedia.org/wiki/Empanada"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "es",
+          "title": "Empanadas de choclo",
+          "subtitle": "Empanada a base de choclo y salsa blanca",
+          "imageUrl": "https://www.lasaltena.com.ar/Image/RecipeImage?imageId\u003d246",
+          "buttons": [
+            {
+              "text": "ORDENAR"
+            },
+            {
+              "text": "Más info",
+              "postback": "https://es.wikipedia.org/wiki/Empanada"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "title": "Empanadas árabes",
+          "subtitle": "Empanadas hechas con carne vacuna, cordero, limón y cebolla",
+          "imageUrl": "https://placeralplato.com/files/2017/07/Empanadillas-rabes-de-carne-y-verdura.jpg",
+          "buttons": [
+            {
+              "text": "ORDENAR"
+            },
+            {
+              "text": "Más información",
+              "postback": "https://es.wikipedia.org/wiki/Empanada"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "title": "Empanadas de carne",
+          "subtitle": "Típica empanada argentina hecha a base de carne y cebolla de verdeo",
+          "imageUrl": "https://www.nestleagustoconlavida.com/wp-content/uploads/2014/09/EMPANADITAS-CRIOLLAS-CHAPINAS.png",
+          "buttons": [
+            {
+              "text": "ORDENAR"
+            },
+            {
+              "text": "Más información",
+              "postback": "https://es.wikipedia.org/wiki/Empanada"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "es",
+          "title": "Empanadas de choclo",
+          "subtitle": "Empanadas horneadas a base de choclo y salsa blanca.",
+          "imageUrl": "https://www.lasaltena.com.ar/Image/RecipeImage?imageId\u003d246",
+          "buttons": [
+            {
+              "text": "ORDENAR"
+            },
+            {
+              "text": "Más información",
+              "postback": "https://es.wikipedia.org/wiki/Empanada"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Tenemos empanadas de carne, choclo y árabes. ¿Deseas ordenar?",
+            "Tenemos empanadas de carne, de choclo y árabes.¿Deseas ordenar?",
+            "La variedad de esta noche son empanadas de choclo, árbabes y de carne.¿Deseas ordenar?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true,
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539463070,
+  "fallbackIntent": false,
+  "events": []
+}

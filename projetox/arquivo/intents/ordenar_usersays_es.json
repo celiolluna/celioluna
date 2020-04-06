@@ -1,0 +1,62 @@
+[
+  {
+    "id": "86b9773b-455f-443f-926c-89f48a8fe97b",
+    "data": [
+      {
+        "text": "ordenar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539463137
+  },
+  {
+    "id": "b7dd2835-50ce-4acd-9626-25d5547595a0",
+    "data": [
+      {
+        "text": "quiero comprar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539188990
+  },
+  {
+    "id": "b7dc1bef-4f4d-4377-af4a-35a4ae0a0607",
+    "data": [
+      {
+        "text": "quiero pedir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539188990
+  },
+  {
+    "id": "91870a9b-d5a8-4c2a-a2fa-250da2dc3409",
+    "data": [
+      {
+        "text": "quiero encargar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539188990
+  },
+  {
+    "id": "98194599-b379-41de-b205-890e8aecfef9",
+    "data": [
+      {
+        "text": "quiero ordenar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539188990
+  }
+]

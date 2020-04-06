@@ -1,0 +1,86 @@
+[
+  {
+    "id": "28d5661c-de0d-4c39-989b-0aefc4e68b25",
+    "data": [
+      {
+        "text": "cuáles son las variedades?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539136011
+  },
+  {
+    "id": "2eb0f2ef-28f3-4667-8cef-203647a9867f",
+    "data": [
+      {
+        "text": "de que variedades tienen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539136011
+  },
+  {
+    "id": "19a72a03-c486-494b-b4ee-d00b3e73e7df",
+    "data": [
+      {
+        "text": "que sabores tienen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539119211
+  },
+  {
+    "id": "f9a9bbf3-3e2f-4795-b97b-2fc5073edf64",
+    "data": [
+      {
+        "text": "gustos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539119211
+  },
+  {
+    "id": "c2f8edc0-9802-4895-8589-70a94dfae5df",
+    "data": [
+      {
+        "text": "cuales son los gustos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539119211
+  },
+  {
+    "id": "8eabd647-e416-4bfd-a3b1-6c868eac3548",
+    "data": [
+      {
+        "text": "sabores?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539119211
+  },
+  {
+    "id": "02c27e55-2549-4807-aaa7-f4af9f63248a",
+    "data": [
+      {
+        "text": "de que sabores tienen?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539119211
+  }
+]

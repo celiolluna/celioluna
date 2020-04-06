@@ -1,0 +1,36 @@
+{
+  "id": "56d8bd87-27a8-4418-9e8a-7474c6432280",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Hola, bienvenido a Empanadas Bot, deseas ordenar? quieres conocer los sabores? estaré aquí para ayudarte en lo que necesites.",
+            "Hola! estás contactando con Empanadas bot, quieres ordenar? Tenemos varios sabores, pregúntame lo que necesites que aquí estaré."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539462703,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

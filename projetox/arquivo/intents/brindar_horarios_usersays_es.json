@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a9cb6d85-0476-48b7-a925-6e065090971c",
+    "data": [
+      {
+        "text": "estan atendiendo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539112406
+  },
+  {
+    "id": "9d4bda5d-1a7f-4f2f-8c20-8f8930d0b460",
+    "data": [
+      {
+        "text": "estan abiertos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539112406
+  },
+  {
+    "id": "a2d3d430-01dc-494e-9810-2bbc0989ecce",
+    "data": [
+      {
+        "text": "a qué hora cierran",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539112406
+  },
+  {
+    "id": "16d4a966-5b4f-4850-b756-a7ddba331a9d",
+    "data": [
+      {
+        "text": "a qué hora abren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539112406
+  },
+  {
+    "id": "ca253dc6-6005-440a-b1f0-0c49819736c3",
+    "data": [
+      {
+        "text": "cuales son los horarios de atención",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539112406
+  },
+  {
+    "id": "4a5b1496-6f6d-4d7e-a46e-c6eff8a4e2c2",
+    "data": [
+      {
+        "text": "cuales son los horarios?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539112406
+  },
+  {
+    "id": "a1479d77-e1b9-45b7-9f04-d114d92730a1",
+    "data": [
+      {
+        "text": "horarios de atención",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539112406
+  }
+]
