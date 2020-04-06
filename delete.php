@@ -1,4 +1,5 @@
 <?php
+#arquivo deletar
 require_once("conect.php");
 try{
 	$pdo = new PDO($dsn, $dbuser, $dbpass);
